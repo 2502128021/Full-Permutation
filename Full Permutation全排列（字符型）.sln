@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Full Permutation全排列（字符型）", "Full Permutation全排列（字符型）\Full Permutation全排列（字符型）.vcxproj", "{87C516BD-883F-4FD7-9F1C-EE9D2FB2ED4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C516BD-883F-4FD7-9F1C-EE9D2FB2ED4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87C516BD-883F-4FD7-9F1C-EE9D2FB2ED4C}.Debug|Win32.Build.0 = Debug|Win32
+		{87C516BD-883F-4FD7-9F1C-EE9D2FB2ED4C}.Release|Win32.ActiveCfg = Release|Win32
+		{87C516BD-883F-4FD7-9F1C-EE9D2FB2ED4C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
